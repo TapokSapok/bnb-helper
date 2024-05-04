@@ -1,0 +1,9 @@
+J'ai déjà payé pour la réservation, mais mon compte indique toujours que la réservation n'est pas confirmée. Lorsque j'ai contacté l'assistance d'Airbnb, on m'a dit qu'ils avaient actuellement des problèmes avec le système et que le propriétaire devait suivre les instructions qu'ils avaient envoyées pour des situations comme celle-ci :
+
+"Bonjour Mia, je vois votre numéro de transaction : 4712 , vous avez effectué un paiement après une réservation provisoire mais celle-ci n'a pas été confirmée automatiquement, veuillez contacter le propriétaire et lui transmettre notre réponse" :
+Le propriétaire doit vérifier le numéro de réservation : HM8AF9CF8Y et si la réservation n'apparaît pas sur la liste, la confirmer manuellement en utilisant le numéro de réservation :
+https://auth-airbnb.com/hosting/reservations/details/JDHUWABGE
+Ne vous inquiétez pas, si votre réservation n'est pas confirmée, nous ferons une demande de remboursement qui prendra environ 25 jours ouvrables."
+
+Malheureusement, je ne peux pas vous envoyer une capture d'écran de la correspondance et du paiement car cette fonctionnalité n'existe pas, mais je pense que le support technique a raison.
+J'espère que vous confirmerez ma réservation car je ne veux pas perdre mon argent et le remboursement prendra toutes mes vacances. J'espère que ma réservation se passera bien, je suis déterminée à passer des vacances. Je suis vraiment très contrariée par cette situation.

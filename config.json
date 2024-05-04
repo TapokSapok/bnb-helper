@@ -1,0 +1,10 @@
+{
+	"query": "Лондон",
+	"searchByQuery": true,
+	"links": 9,
+	"minReviews": 100,
+	"locale": "com",
+	"token": "6730476076:AAGUUPDqGnhQHsm3y7OL3zKvvEUwVQbPavo",
+	"responseTimeout": 70000,
+	"proxy": ""
+}

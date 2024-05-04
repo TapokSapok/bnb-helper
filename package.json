@@ -1,0 +1,22 @@
+{
+	"name": "bnb-spamer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"bot": "node ./src/bot.js",
+		"parsing": "node ./src/parsing.js",
+		"resender": "node ./src/resender.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.6.8",
+		"socks-proxy-agent": "^8.0.3",
+		"sqlite": "^5.1.1",
+		"sqlite3": "^5.1.7",
+		"telegraf": "^4.16.3",
+		"ws": "^8.17.0"
+	}
+}
